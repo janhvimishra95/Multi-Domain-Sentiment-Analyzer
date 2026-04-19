@@ -1,0 +1,4 @@
+Model,Accuracy
+Logistic Regression,100.0
+Naive Bayes,98.0
+SVM,100.0
